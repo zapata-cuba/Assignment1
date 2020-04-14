@@ -1,2 +1,2 @@
 # Assignment 1
-This is a repository for my Assignment 1 of my course Introduction to Information Technology
+This is a personal profile website for my assignment 1 for Introduction to Information Technology
